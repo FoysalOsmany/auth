@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/FoysalOsmany/auth/issues"
   },
-  "homepage": "https://github.com/FoysalOsmany/auth#readme"
+  "homepage": "https://github.com/FoysalOsmany/auth#readme",
+  "dependencies": {
+    "passport": "^0.3.2"
+  }
 }
