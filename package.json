@@ -1,0 +1,28 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "NodeJS and ExpressJS Authentication and Authorization built on top of Passport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoysalOsmany/auth.git"
+  },
+  "keywords": [
+    "Auth",
+    "Express",
+    "Authentication",
+    "Express",
+    "Authorization",
+    "Node",
+    "Auth"
+  ],
+  "author": "Foysal Osmany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FoysalOsmany/auth/issues"
+  },
+  "homepage": "https://github.com/FoysalOsmany/auth#readme"
+}
